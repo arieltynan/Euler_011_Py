@@ -1,3 +1,6 @@
+# Euler Problem 011
+# Solved January 2021
+
 # Largest product in grid
 # Derive concept from problem 8
 import numpy
